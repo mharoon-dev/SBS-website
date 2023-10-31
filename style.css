@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* nav bar */
+.navbar {
+    font-weight: 600;
+}
+
+.nav-link:hover {
+    background-color: #f0390f;
+    color: #fff;
+    border-radius: 10rem;
+
+}
+/* nav bar end  */
