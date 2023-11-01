@@ -60,6 +60,48 @@ body {
 /* home end  */
 
 
+/* Skating-section  */
+.skater {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+.red-bg {
+    background-color: #f0390f;
+}
+.blue-bg {
+    background-color: #3e0bce;
+}
+.Skating-section h2 { /* section heading   */
+    font-size: 45px;
+    color: #2b2b2b;
+    line-height: 60px;
+    font-weight: bold;
+    padding: 0;
+    display: inline-block;
+    text-align: center;
+}
+ .skater h3 { /* card heading   */
+    color: #fff;
+    font-size: 25px;
+    transition: ease-in all 0.5s;
+    font-weight: bold;
+    line-height: 22px;
+    padding: 30px 0;
+}
+.skater p { /* card paragraph   */
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    line-height: 28px;
+    transition: ease-in all 0.5s;
+    text-align: center;
+}
+/* Skating-section end  */
+
+
 
 
 
