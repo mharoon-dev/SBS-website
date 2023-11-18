@@ -34,10 +34,6 @@ function showSkaters() {
               <h3>${skater.h3}</h3>
               <p>${skater.p}</p>
             </div>
-            <div class="row">
-            <div class="col">
-            <p class="read-more">read more</p>
-            </div>
         `
     }) 
 }

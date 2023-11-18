@@ -102,6 +102,38 @@ body {
 /* Skating-section end  */
 
 
+/* about */
+.about {
+    width: 100% !important;
+    height: auto;
+    background-image: url(./images/about_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+}
+#about-h2 {
+    padding-top: 8rem;
+    padding-left: 5rem;
+    padding-right: 8rem;
+    padding-bottom: 2rem;
+    font-size: 53px;
+    line-height:60px;
+    color: white;
+    font-weight: bold;
+    width: 75% !important;
+    margin:0;
+}
+#about-p {
+    font-weight: 400;
+    font-size: 25px;
+    color: #fff;
+    margin-left: 8rem;
+    margin-left: 8rem;
+    padding-bottom: 29px;
+}
+/* about end  */
+
+
 
 
 
